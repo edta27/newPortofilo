@@ -243,6 +243,10 @@ h1 {
 h2 {
   text-align: center;
 }
+
+.p1{
+  color:white;
+}
 /* Map */
 
 .map {
@@ -270,7 +274,9 @@ h2 {
   right: 5px;
 }
 
-
+.project2 {
+  background-image: url("img/pro2back.jpg");
+}
 
 @media(max-width:768px) {
 /*    .map {
