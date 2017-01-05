@@ -244,9 +244,28 @@ h2 {
   text-align: center;
 }
 
-.p1{
-  color:white;
+.p1 img {
+    height: auto;
+    width: auto;
+    max-width: 350px;
+    max-height: 350px;
 }
+
+.p2 img {
+    height: auto;
+    width: auto;
+    max-width: 150px;
+    max-height: 150px;
+    padding: 10px;
+
+}
+
+.p4 img {
+   height: auto;
+    width: auto;
+}
+
+
 /* Map */
 
 .map {
