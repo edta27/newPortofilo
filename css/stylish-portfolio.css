@@ -187,13 +187,15 @@ hr.small {
 /*text content*/
 
 .text-content {
-  background-color: grey;
-  color: white;
+  background-color: white;
+  color: black;
+  height: 100%;
+  width: 100%;
   margin: 0;
   position: absolute;
-  left: 40%;
-  bottom: 50%;
-  font-size: 20px;
+  left: 0;
+  bottom: 0;
+  font-size: 100px;
   padding: 4px;
   opacity: 10;
   visibility: hidden;
